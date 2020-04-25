@@ -1,7 +1,7 @@
 void setup() {
   size(400, 400);
   background(0,0,0);
-<<<<<<< HEAD
+
   circle(200, 200, 300);
   fill(0);
   circle(200, 200, 5);
@@ -12,8 +12,7 @@ void setup() {
   text("6", 195, 340);
   text("3", 330, 205);
   text("9", 60, 210);
-=======
->>>>>>> 45a39ffabacc65f3e5228181524babc8afc43ede
+
 }
 
 void draw() {
